@@ -1,5 +1,5 @@
 from decimal import Decimal
-FEDERAL_TAX = Decimal("0.06")
+FEDERAL_TAX = Decimal("0.05")
 QC_TAX = Decimal('0.13')
 
 meal_price = Decimal('44.50')

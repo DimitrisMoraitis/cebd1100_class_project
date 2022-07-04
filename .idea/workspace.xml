@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="Initial Commit as per class instruction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,9 +119,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.calculate_tax" />
-      <item itemvalue="Python.hello_world " />
       <item itemvalue="Python.testing" />
       <item itemvalue="Python.using_inputs" />
+      <item itemvalue="Python.hello_world " />
     </list>
     <recent_temporary>
       <list>
@@ -141,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656954317618</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit as per class instruction">
+      <created>1656956711258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656956711258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit as per class instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit as per class instruction" />
   </component>
 </project>
