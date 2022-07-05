@@ -52,6 +52,9 @@ m = 2
 n = 4
 p = 5
 average = (m+n+p)/3
-print("Exercise 4- Rounding")
+print("Exercise 4 - Rounding")
 print(round(average, 2))
 print(round((m+n+p)/3, 2))
+
+# determine if number is even or odd
+print(n % 2 == 0)
