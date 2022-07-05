@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="brought int operation up and reduced calculations to one">
-      <change beforePath="$PROJECT_DIR$/class_2/temperature_conversions.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/temperature_conversions.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="updated with input and conversion to both F and c">
+      <change beforePath="$PROJECT_DIR$/class_2/simple_arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/simple_arithmetic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,8 +157,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.temperature_conversions" />
-        <item itemvalue="Python.car_age" />
         <item itemvalue="Python.simple_arithmetic" />
+        <item itemvalue="Python.car_age" />
         <item itemvalue="Python.while and if statement" />
         <item itemvalue="Python.testing" />
       </list>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657060441973</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated with input and conversion to both F and c">
+      <created>1657061051546</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657061051546</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +266,7 @@
     <MESSAGE value="created while and if statement py" />
     <MESSAGE value="added determination of even/odd using == operator" />
     <MESSAGE value="brought int operation up and reduced calculations to one" />
-    <option name="LAST_COMMIT_MESSAGE" value="brought int operation up and reduced calculations to one" />
+    <MESSAGE value="updated with input and conversion to both F and c" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated with input and conversion to both F and c" />
   </component>
 </project>
