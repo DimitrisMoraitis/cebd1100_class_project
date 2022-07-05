@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="created while and if statement py">
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="added determination of even/odd using == operator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_2/simple_arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/simple_arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_2/car_age.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/car_age.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.simple_arithmetic">
+  <component name="RunManager" selected="Python.car_age">
     <configuration name="car_age" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +157,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.car_age" />
         <item itemvalue="Python.simple_arithmetic" />
         <item itemvalue="Python.while and if statement" />
         <item itemvalue="Python.testing" />
         <item itemvalue="Python.temperature_conversions" />
-        <item itemvalue="Python.car_age" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657058491009</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added determination of even/odd using == operator">
+      <created>1657059276071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657059276071</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +244,7 @@
     <MESSAGE value="added rounding example using two methods" />
     <MESSAGE value="preliminary car age calc and temp conversion calc" />
     <MESSAGE value="created while and if statement py" />
-    <option name="LAST_COMMIT_MESSAGE" value="created while and if statement py" />
+    <MESSAGE value="added determination of even/odd using == operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="added determination of even/odd using == operator" />
   </component>
 </project>
