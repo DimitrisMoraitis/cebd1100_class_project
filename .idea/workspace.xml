@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="added rounding example using two methods">
-      <change afterPath="$PROJECT_DIR$/class_2/car_age.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_2/temperature_conversions.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="preliminary car age calc and temp conversion calc">
+      <change afterPath="$PROJECT_DIR$/class_1/while and if statement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lighthouse_trials/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/lighthouse_trials/testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/class_1/while and if statement.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.temperature_conversions">
+  <component name="RunManager" selected="Python.while and if statement">
     <configuration name="car_age" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="using_inputs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while and if statement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_1/using_inputs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_1/while and if statement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,19 +150,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.while and if statement" />
       <item itemvalue="Python.car_age" />
       <item itemvalue="Python.simple_arithmetic" />
       <item itemvalue="Python.temperature_conversions" />
       <item itemvalue="Python.testing" />
-      <item itemvalue="Python.using_inputs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.while and if statement" />
+        <item itemvalue="Python.testing" />
         <item itemvalue="Python.temperature_conversions" />
         <item itemvalue="Python.car_age" />
         <item itemvalue="Python.simple_arithmetic" />
-        <item itemvalue="Python.testing" />
-        <item itemvalue="Python.using_inputs" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656977819100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="preliminary car age calc and temp conversion calc">
+      <created>1656979121401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656979121401</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +229,7 @@
     <MESSAGE value="changed federal tax to 0.05 from 0.06" />
     <MESSAGE value="created arithmetic exercises from slides" />
     <MESSAGE value="added rounding example using two methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="added rounding example using two methods" />
+    <MESSAGE value="preliminary car age calc and temp conversion calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="preliminary car age calc and temp conversion calc" />
   </component>
 </project>
