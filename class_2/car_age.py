@@ -5,8 +5,8 @@ car_year = int(car_year)
 current_year = int(current_year)
 
 year = (current_year-car_year)
-month = (current_year-car_year) * 12
-days = (current_year-car_year) * 365
+month = year * 12
+days = year * 365
 
 
 print("Your car is " + str(year) + " years old")
