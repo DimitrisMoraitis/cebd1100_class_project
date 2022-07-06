@@ -1,3 +1,4 @@
+# # Trial 1
 # first = "Jimmy"
 # last = "Wood"
 # age = 30
@@ -10,12 +11,24 @@
 # print(greeting1)
 # print(greeting2)
 # print(greeting3)
-
-first = input("What is your first name? > ")
-last = input("What is your last name? > ")
-age = input("What is your age? > ")
-age1 = 100 - int(age)
-
-prediction = f"Hello {first} {last}, you have {age1} more years to live!"
-
-print(prediction)
+#
+# # Trial 2
+# first = input("What is your first name? > ")
+# last = input("What is your last name? > ")
+# age = input("What is your age? > ")
+# age1 = 100 - int(age)
+#
+# prediction = f"Hello {first} {last}, you have {age1} more years to live!"
+#
+# print(prediction)
+#
+# # Trial 3
+# print("{:06d}".format(32))
+#
+# # Trial 4
+# age = input("What is your age? > ")
+# age1 = 100 - int(age)
+# print(f"{age1:08d}")
+#
+# # Trial 5
+# print("{quantity} {item} cost ${price}".format(quantity=5, item="apples", price=55))
