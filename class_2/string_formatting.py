@@ -32,3 +32,7 @@
 #
 # # Trial 5
 # print("{quantity} {item} cost ${price}".format(quantity=5, item="apples", price=55))
+
+# Trial 6
+dollar = 45
+print("You owe me ${:.2f}".format(dollar))

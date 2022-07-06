@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="tried string formatting and combined with input function">
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="added more string formatting such as additional zeros and direct naming of variables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_2/string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/string_formatting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -271,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657147413989</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added more string formatting such as additional zeros and direct naming of variables">
+      <created>1657148775913</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657148775913</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,6 +307,7 @@
     <MESSAGE value="spacings in equation" />
     <MESSAGE value="used \n for new lines instead of triple quotes" />
     <MESSAGE value="tried string formatting and combined with input function" />
-    <option name="LAST_COMMIT_MESSAGE" value="tried string formatting and combined with input function" />
+    <MESSAGE value="added more string formatting such as additional zeros and direct naming of variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more string formatting such as additional zeros and direct naming of variables" />
   </component>
 </project>
