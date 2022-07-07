@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="prepared class 3 scripts">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_2/string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/string_formatting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_3/retail_or_wholesale.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/retail_or_wholesale.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="second option for calculating retail/wholesale discount">
+      <change beforePath="$PROJECT_DIR$/class_3/dinner_patrons.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/dinner_patrons.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.retail_or_wholesale">
+  <component name="RunManager" selected="Python.dinner_patrons">
     <configuration name="dinner_patrons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,10 +156,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dinner_patrons" />
         <item itemvalue="Python.retail_or_wholesale" />
         <item itemvalue="Python.string_formatting" />
         <item itemvalue="Python.multiple_of_ten" />
-        <item itemvalue="Python.dinner_patrons" />
         <item itemvalue="Python.if_else if_else_script" />
       </list>
     </recent_temporary>
@@ -294,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657232704696</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="second option for calculating retail/wholesale discount">
+      <created>1657236184948</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657236184948</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +330,7 @@
     <MESSAGE value="added more string formatting such as additional zeros and direct naming of variables" />
     <MESSAGE value="using decimal float for money" />
     <MESSAGE value="prepared class 3 scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="prepared class 3 scripts" />
+    <MESSAGE value="second option for calculating retail/wholesale discount" />
+    <option name="LAST_COMMIT_MESSAGE" value="second option for calculating retail/wholesale discount" />
   </component>
 </project>
