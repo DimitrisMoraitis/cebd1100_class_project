@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="second option for multiple of 10 including zero option">
-      <change afterPath="$PROJECT_DIR$/python_crash_course/chapter_2.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="start from python crash course book">
+      <change afterPath="$PROJECT_DIR$/class_3/use of ranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_3/while loop and guessing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_3/if_else if_else_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/if_else if_else_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_3/multiple_of_ten.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/multiple_of_ten.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.chapter_2">
+  <component name="RunManager" selected="Python.use of ranges">
     <configuration name="chapter_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="retail_or_wholesale" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="use of ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_3/retail_or_wholesale.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_3/use of ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_formatting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while loop and guessing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_2/string_formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_3/while loop and guessing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,19 +152,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.use of ranges" />
+      <item itemvalue="Python.while loop and guessing" />
       <item itemvalue="Python.chapter_2" />
       <item itemvalue="Python.dinner_patrons" />
       <item itemvalue="Python.multiple_of_ten" />
-      <item itemvalue="Python.retail_or_wholesale" />
-      <item itemvalue="Python.string_formatting" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chapter_2" />
+        <item itemvalue="Python.use of ranges" />
+        <item itemvalue="Python.while loop and guessing" />
         <item itemvalue="Python.multiple_of_ten" />
+        <item itemvalue="Python.chapter_2" />
         <item itemvalue="Python.dinner_patrons" />
-        <item itemvalue="Python.retail_or_wholesale" />
-        <item itemvalue="Python.string_formatting" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657237838912</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="start from python crash course book">
+      <created>1657483944822</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1657483944822</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +358,7 @@
     <MESSAGE value="second option for calculating retail/wholesale discount" />
     <MESSAGE value="second option for leaner patron dinner message" />
     <MESSAGE value="second option for multiple of 10 including zero option" />
-    <option name="LAST_COMMIT_MESSAGE" value="second option for multiple of 10 including zero option" />
+    <MESSAGE value="start from python crash course book" />
+    <option name="LAST_COMMIT_MESSAGE" value="start from python crash course book" />
   </component>
 </project>

@@ -1,3 +1,4 @@
+# determine a number greater than your picked number
 value1 = int(input("Enter a number > "))
 value2 = 100
 
