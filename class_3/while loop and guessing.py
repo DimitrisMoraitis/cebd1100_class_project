@@ -12,12 +12,12 @@
 #   x += 1
 
 ## continue in while loop
-x = 1
-while x < 15:
-    x += 1
-    if x == 10:
-        continue
-    print(x)
+# x = 0
+# while x < 15:
+#     x += 1
+#     if x == 8:
+#         continue
+#     print(x)
 
 # message = ""
 # while message != "q".lower():
@@ -50,3 +50,31 @@ while x < 15:
 #
 #     response = input("Would you like to continue? Y or N > ").lower()
 # print = response
+
+## two while loops interacting
+
+# i = 0
+# j = 0
+# while i <= 5:
+#     while j <= 5:
+#         prod = i * j
+#         print(f"{i} times {j} is equal to {prod}")
+#         j += 1
+#     j = 0
+#     i += 1
+
+# using a break to exit a loop
+
+while True:
+
+    guess = input("Enter your number > ")
+    guess = int(guess)
+    if guess % 10 == 0:
+        print("Your number is a multiple of ten")
+    else:
+        print("Your number is not a multiple of ten")
+
+    message = input("Continue ? Y or N ").lower()
+    if message == "N".lower():
+        break
+
