@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="start from python crash course book">
-      <change afterPath="$PROJECT_DIR$/class_3/use of ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_3/while loop and guessing.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="more options for mutliple of ten, while look and use of ranges">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_3/if_else if_else_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/if_else if_else_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_3/multiple_of_ten.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/multiple_of_ten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_3/while loop and guessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/while loop and guessing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.use of ranges">
+  <component name="RunManager" selected="Python.while loop and guessing">
     <configuration name="chapter_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +157,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.use of ranges" />
         <item itemvalue="Python.while loop and guessing" />
+        <item itemvalue="Python.use of ranges" />
         <item itemvalue="Python.multiple_of_ten" />
         <item itemvalue="Python.chapter_2" />
         <item itemvalue="Python.dinner_patrons" />
@@ -324,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657483944822</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="more options for mutliple of ten, while look and use of ranges">
+      <created>1658150614512</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658150614512</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,6 +363,7 @@
     <MESSAGE value="second option for leaner patron dinner message" />
     <MESSAGE value="second option for multiple of 10 including zero option" />
     <MESSAGE value="start from python crash course book" />
-    <option name="LAST_COMMIT_MESSAGE" value="start from python crash course book" />
+    <MESSAGE value="more options for mutliple of ten, while look and use of ranges" />
+    <option name="LAST_COMMIT_MESSAGE" value="more options for mutliple of ten, while look and use of ranges" />
   </component>
 </project>
