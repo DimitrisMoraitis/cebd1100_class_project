@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="added break and continue examples">
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="used a while lopp true and break to exit multiple of ten inquiry">
+      <change afterPath="$PROJECT_DIR$/class_4/another while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_4/guessing_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_4/range examples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class_3/while loop and guessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_3/while loop and guessing.py" afterDir="false" />
     </list>
@@ -42,8 +45,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.while loop and guessing">
-    <configuration name="chapter_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.guessing_numbers">
+    <configuration name="another while loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_crash_course" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_crash_course/chapter_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_4/another while loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dinner_patrons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="guessing_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_3/dinner_patrons.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_4/guessing_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiple_of_ten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="range examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_3/multiple_of_ten.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_4/range examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,19 +152,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.another while loop" />
+      <item itemvalue="Python.guessing_numbers" />
+      <item itemvalue="Python.range examples" />
       <item itemvalue="Python.use of ranges" />
       <item itemvalue="Python.while loop and guessing" />
-      <item itemvalue="Python.chapter_2" />
-      <item itemvalue="Python.dinner_patrons" />
-      <item itemvalue="Python.multiple_of_ten" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guessing_numbers" />
+        <item itemvalue="Python.range examples" />
+        <item itemvalue="Python.another while loop" />
         <item itemvalue="Python.while loop and guessing" />
         <item itemvalue="Python.use of ranges" />
-        <item itemvalue="Python.multiple_of_ten" />
-        <item itemvalue="Python.chapter_2" />
-        <item itemvalue="Python.dinner_patrons" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658158377694</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="used a while lopp true and break to exit multiple of ten inquiry">
+      <created>1658161258550</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658161258550</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,6 +382,7 @@
     <MESSAGE value="start from python crash course book" />
     <MESSAGE value="more options for mutliple of ten, while look and use of ranges" />
     <MESSAGE value="added break and continue examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="added break and continue examples" />
+    <MESSAGE value="used a while lopp true and break to exit multiple of ten inquiry" />
+    <option name="LAST_COMMIT_MESSAGE" value="used a while lopp true and break to exit multiple of ten inquiry" />
   </component>
 </project>

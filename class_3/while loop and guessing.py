@@ -65,8 +65,23 @@
 
 # using a break to exit a loop
 
-while True:
+# while True:
+#
+#     guess = input("Enter your number > ")
+#     guess = int(guess)
+#     if guess % 10 == 0:
+#         print("Your number is a multiple of ten")
+#     else:
+#         print("Your number is not a multiple of ten")
+#
+#     message = input("Continue ? Y or N ").lower()
+#     if message == "N".lower() or message == "No".lower():
+#         break
 
+# using a list to break a loop
+answer_list = ["No".lower(), "N".lower()]
+
+while True:
     guess = input("Enter your number > ")
     guess = int(guess)
     if guess % 10 == 0:
@@ -75,6 +90,5 @@ while True:
         print("Your number is not a multiple of ten")
 
     message = input("Continue ? Y or N ").lower()
-    if message == "N".lower():
+    if message in answer_list:
         break
-
