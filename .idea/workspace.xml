@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="added exercises from chapter 3">
-      <change beforePath="$PROJECT_DIR$/class_4/fizzbuzz_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_4/fizzbuzz_quiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_crash_course/chapter_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_crash_course/chapter_3.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="changed range to inputted variable">
+      <change afterPath="$PROJECT_DIR$/class_4/employees.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_4/open_file_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/dmora/PycharmProjects/cebd1100_class_project/class_4"
   }
-}</component>
-  <component name="RunManager" selected="Python.fizzbuzz_quiz">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmora\PycharmProjects\cebd1100_class_project\class_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmora\PycharmProjects\cebd1100_class_project\class_4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.open_file_code">
     <configuration name="chapter_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,27 +87,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_4/fizzbuzz_quiz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="guessing_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cebd1100_class_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_4/guessing_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,20 +137,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="open_file_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cebd1100_class_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_4/open_file_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.chapter_3" />
       <item itemvalue="Python.fizzbuzz_quiz" />
-      <item itemvalue="Python.guessing_numbers" />
       <item itemvalue="Python.make_a_square" />
       <item itemvalue="Python.multiplication_table" />
+      <item itemvalue="Python.open_file_code" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.open_file_code" />
         <item itemvalue="Python.fizzbuzz_quiz" />
         <item itemvalue="Python.chapter_3" />
         <item itemvalue="Python.make_a_square" />
         <item itemvalue="Python.multiplication_table" />
-        <item itemvalue="Python.guessing_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658264865807</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="changed range to inputted variable">
+      <created>1658331726050</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1658331726050</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +395,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="changed federal tax to 0.05 from 0.06" />
     <MESSAGE value="created arithmetic exercises from slides" />
     <MESSAGE value="added rounding example using two methods" />
     <MESSAGE value="preliminary car age calc and temp conversion calc" />
@@ -403,6 +419,7 @@
     <MESSAGE value="created random guesisng game" />
     <MESSAGE value="completed fizzbuzz program" />
     <MESSAGE value="added exercises from chapter 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added exercises from chapter 3" />
+    <MESSAGE value="changed range to inputted variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed range to inputted variable" />
   </component>
 </project>
