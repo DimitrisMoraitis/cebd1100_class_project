@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="completed fizzbuzz program">
-      <change afterPath="$PROJECT_DIR$/python_crash_course/chapter_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="added exercises from chapter 3">
+      <change beforePath="$PROJECT_DIR$/class_4/fizzbuzz_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_4/fizzbuzz_quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_crash_course/chapter_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_crash_course/chapter_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.chapter_3">
+  <component name="RunManager" selected="Python.fizzbuzz_quiz">
     <configuration name="chapter_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,8 +157,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chapter_3" />
         <item itemvalue="Python.fizzbuzz_quiz" />
+        <item itemvalue="Python.chapter_3" />
         <item itemvalue="Python.make_a_square" />
         <item itemvalue="Python.multiplication_table" />
         <item itemvalue="Python.guessing_numbers" />
@@ -356,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658263344383</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="added exercises from chapter 3">
+      <created>1658264865807</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1658264865807</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +378,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit as per class instruction" />
     <MESSAGE value="changed federal tax to 0.05 from 0.06" />
     <MESSAGE value="created arithmetic exercises from slides" />
     <MESSAGE value="added rounding example using two methods" />
@@ -396,6 +402,7 @@
     <MESSAGE value="used a while lopp true and break to exit multiple of ten inquiry" />
     <MESSAGE value="created random guesisng game" />
     <MESSAGE value="completed fizzbuzz program" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed fizzbuzz program" />
+    <MESSAGE value="added exercises from chapter 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added exercises from chapter 3" />
   </component>
 </project>

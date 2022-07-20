@@ -31,29 +31,31 @@
 # print(len(blist))
 # print(len(ylist))
 
-# Example 4
-# create list with 3 colors
-listz = ['red', 'green', 'blue']
-print(listz)
-
-# add to previous list 2 more colors
-listm = listz + ["black", "white"]
-print(listm)
-
-# replace blue with yellow
-listm[2] = "yellow"
-print(listm)
-
-# delete color green from second list
-listm.remove("green")
-print(listm)
-listm.pop(0)
-print(listm)
+# # Example 4
+# # create list with 3 colors
+# listz = ['red', 'green', 'blue']
+# print(listz)
+#
+# # add to previous list 2 more colors
+# listm = listz + ["black", "white"]
+# print(listm)
+#
+# # replace blue with yellow
+# listm[2] = "yellow"
+# print(listm)
+#
+# # delete color green from second list
+# listm.remove("green")
+# print(listm)
+# listm.pop(0)
+# print(listm)
 
 # Example 5
+
+listm = ['yellow', 'black', 'white']
 count = 1
 while count <= 3:
-    print(count," ",listm[count-1])
+    print(count, " ", listm[count-1])
     count += 1
 
 count = 1

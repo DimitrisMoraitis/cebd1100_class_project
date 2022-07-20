@@ -1,9 +1,10 @@
+val = 30
 val3 = 3
 val5 = 5
 x = 1
 y = 1
 
-for x in range(1, 26):
+for x in range(1, (val+1)):
 
     print(f"{x}\t", end="")
     while y <= x:
