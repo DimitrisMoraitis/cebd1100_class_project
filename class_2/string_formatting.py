@@ -34,11 +34,12 @@
 # print("{quantity} {item} cost ${price}".format(quantity=5, item="apples", price=55))
 
 # Trial 6
-# dollar = 45
-# print("You owe me ${:.2f}".format(dollar))
+dollar = 45
+print("You owe me ${:.2f}".format(dollar))
+print(f"You owe me ${dollar:.2f}")
 
 # Trial 7
-greeting = "HELLO WORLD"
-print(greeting.strip())
-print(greeting.lower())
-print(len(greeting))
+# greeting = "HELLO WORLD"
+# print(greeting.strip())
+# print(greeting.lower())
+# print(len(greeting))
