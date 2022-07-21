@@ -16,21 +16,28 @@
 # print(f"Senior employees: {senior_count}")
 # print(f"Junior employees: {junior_count}")
 
-double_digit = 0
-single_digit = 0
-
-with open('employees.txt') as file_object:
-    for ln in file_object:
-
-        if float(ln[42:48]) >= 9.999:
-            double_digit += 1
-
-        if float(ln[42:48]) < 9.999:
-            single_digit += 1
-
-print(f" Double digit bonuses given to {double_digit} employees")
-print(f" Single digit bonuses given to {single_digit} employees")
-
+# double_digit = 0
+# single_digit = 0
+#
 # with open('employees.txt') as file_object:
 #     for ln in file_object:
-#         print(type(float(ln[42:48])))
+#
+#         if float(ln[42:48]) >= 9.999:
+#             double_digit += 1
+#
+#         if float(ln[42:48]) < 9.999:
+#             single_digit += 1
+#
+# print(f" Double digit bonuses given to {double_digit} employees")
+# print(f" Single digit bonuses given to {single_digit} employees")
+
+# with open('employees.txt') as file_object:
+#     contents = file_object.read()
+#     print(contents)
+
+with open('employees.txt') as file_object:
+    contents = file_object.readable()
+    if contents:
+        print("Your File is readable")
+    else:
+        print("Your File is not readable")

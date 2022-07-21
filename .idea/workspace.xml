@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="import and use a txt file">
-      <change afterPath="$PROJECT_DIR$/assignments/tip_calculator.py" afterDir="false" />
+    <list default="true" id="7ae40b61-96fd-4fd1-95bd-0a32f47ad91c" name="Changes" comment="part 1 of assignment 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_2/string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_2/string_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_4/open_file_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_4/open_file_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="C:\Users\dmora\PycharmProjects\cebd1100_class_project\class_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tip_calculator">
+  <component name="RunManager" selected="Python.open_file_code">
     <configuration name="fizzbuzz_quiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cebd1100_class_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,10 +166,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.open_file_code" />
         <item itemvalue="Python.tip_calculator" />
         <item itemvalue="Python.use of ranges" />
         <item itemvalue="Python.string_formatting" />
-        <item itemvalue="Python.open_file_code" />
         <item itemvalue="Python.fizzbuzz_quiz" />
       </list>
     </recent_temporary>
@@ -387,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658354514777</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="part 1 of assignment 1">
+      <created>1658427849900</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1658427849900</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added rounding example using two methods" />
     <MESSAGE value="preliminary car age calc and temp conversion calc" />
     <MESSAGE value="created while and if statement py" />
     <MESSAGE value="added determination of even/odd using == operator" />
@@ -427,6 +432,7 @@
     <MESSAGE value="added exercises from chapter 3" />
     <MESSAGE value="changed range to inputted variable" />
     <MESSAGE value="import and use a txt file" />
-    <option name="LAST_COMMIT_MESSAGE" value="import and use a txt file" />
+    <MESSAGE value="part 1 of assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 1 of assignment 1" />
   </component>
 </project>
