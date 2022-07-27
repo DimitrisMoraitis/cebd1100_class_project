@@ -1,7 +1,7 @@
 from decimal import Decimal
 import csv
-import datetime
-this_file = 'input_files/100_sales_recs.csv'
+import datetime                                     # To add date to report
+this_file = 'input_files/100_sales_recs.csv'        # Add csv path here in quotations
 
 # verifying file is error free
 with open(this_file) as file_object:
